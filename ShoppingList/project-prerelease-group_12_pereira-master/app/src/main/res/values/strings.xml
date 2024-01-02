@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">shoppingList</string>
+    <string name="Save">save</string>
+    <string name="Settings">Settings</string>
+    <string name="Sound">Mute Sound</string>
+    <string name="sounds">Sounds:</string>
+<string name="google_maps_key">AIzaSyA7y8URgpB1UTO_9kqSMHCOZIdcq5XUWKc:</string>
+
+    <string-array name="pharmacies">
+        <item>CVS</item>
+        <item>Walgreens</item>
+    </string-array>
+    <string name="upload">Upload</string>
+    <string name="add">add</string>
+    <string name="x">X</string>
+    <string name="image">image</string>
+    <string name="reminder">Reminder:</string>
+    <string name="separator">:</string>
+    <string name="setTime">Set Time:</string>
+    <string name="zeroes">00</string>
+    <string name="manual">For manual search click here to enter website domain here:</string>
+    <string name="search">Search</string>
+    <string name="read">Read News about item:</string>
+    <string name="searchOnline">Search Online for item:</string>
+    <string name="amazon">Amazon Search</string>
+    <string name="manualSearch">Manual Search</string>
+    <string name="textRec">Text Recognition</string>
+    <string name="enterHere">Enter Item Here</string>
+    <string name="listHere">Create List Here</string>
+    <string name="phoneCall">Call 911</string>
+    <string name="rems">Reminders:</string>
+
+</resources>
